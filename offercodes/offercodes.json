@@ -1,0 +1,19 @@
+{
+  "offer_codes": [
+    {
+      "code": "SPACE2026",
+      "expired_date": "2026-12-31T23:59:59Z",
+      "status": "active"
+    },
+    {
+      "code": "BETA100",
+      "expired_date": "2026-08-31T23:59:59Z",
+      "status": "active"
+    },
+    {
+      "code": "OLDPROMO",
+      "expired_date": "2026-01-01T00:00:00Z",
+      "status": "inactive"
+    }
+  ]
+}
