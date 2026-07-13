@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "identifier_app": "com.smartgroup.spacemintios.SpaceMintiOS",
+      "enable_ofc": true
+    }
+  ]
+}
