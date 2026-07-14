@@ -4,17 +4,19 @@
       "code": "SPACE2026",
       "expired_date": "2026-12-31T23:59:59Z",
       "status": 0,
-      "updatedAt": "2026-12-31T23:59:59Z",
+      "updatedAt": "2026-07-14T02:23:21.201241Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "D4467FDE-5D47-4DF1-92D1-C43E09AF2C29",
+      "redeemed_at": "2026-07-14T02:23:21.201241Z"
     },
     {
       "code": "SPACE2025",
       "expired_date": "2026-12-31T23:59:59Z",
-      "status": 1,
-      "updatedAt": "2026-12-31T23:59:59Z",
+      "status": 0,
+      "updatedAt": "2026-07-14T02:29:37.788722Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "debug-device",
+      "redeemed_at": "2026-07-14T02:29:37.788722Z"
     }
   ]
 }
