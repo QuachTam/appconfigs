@@ -11,7 +11,7 @@
     {
       "code": "SPACE2025",
       "expired_date": "2026-12-31T23:59:59Z",
-      "status": 0,
+      "status": 1,
       "updatedAt": "2026-12-31T23:59:59Z",
       "code_type": 0,
       "device_id_updated": ""
