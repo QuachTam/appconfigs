@@ -3,7 +3,10 @@
     {
       "code": "SPACE2026",
       "expired_date": "2026-12-31T23:59:59Z",
-      "status": "active"
+      "status": "active",
+      "updatedAt": "2026-12-31T23:59:59Z",
+      "code_type": "free",
+      "device_id_updated": ""
     }
   ]
 }
