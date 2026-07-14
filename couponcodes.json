@@ -3,18 +3,18 @@
     {
       "code": "SPACE-2026-DGGU2L",
       "expired_date": "2026-12-31T04:30:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-14T11:00:24.043Z",
+      "status": 0,
+      "updatedAt": "2026-07-14T11:01:38.100239Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "1EC2F5DD-141F-4D0A-A273-E2800F316A03"
     },
     {
       "code": "SPACE2025",
       "expired_date": "2026-12-31T23:59:59Z",
       "status": 1,
-      "updatedAt": "2026-07-14T02:23:21.201241Z",
+      "updatedAt": "2026-07-14T02:42:05.502582Z",
       "code_type": 0,
-      "device_id_updated": "D4467FDE-5D47-4DF1-92D1-C43E09AF2C29"
+      "device_id_updated": "FA89D2D1-8C69-4526-834F-111C148FB783"
     },
     {
       "code": "SPACE2026",
@@ -27,10 +27,10 @@
     {
       "code": "SPACE2027",
       "expired_date": "2026-12-31T23:59:59Z",
-      "status": 1,
-      "updatedAt": "2026-07-14T02:42:05.502582Z",
+      "status": 0,
+      "updatedAt": "2026-07-14T10:54:54.314427Z",
       "code_type": 0,
-      "device_id_updated": "FA89D2D1-8C69-4526-834F-111C148FB783"
+      "device_id_updated": "7B9E4555-C8BA-4558-A46A-E8C884D72CD1"
     },
     {
       "code": "SPACE2028",
