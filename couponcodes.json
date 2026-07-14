@@ -1,6 +1,14 @@
 {
   "coupon_codes": [
     {
+      "code": "SPACE-2026-DGGU2L",
+      "expired_date": "2026-12-31T04:30:00Z",
+      "status": 1,
+      "updatedAt": "2026-07-14T11:00:24.043Z",
+      "code_type": 0,
+      "device_id_updated": ""
+    },
+    {
       "code": "SPACE2025",
       "expired_date": "2026-12-31T23:59:59Z",
       "status": 1,
