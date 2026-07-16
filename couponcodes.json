@@ -1,5 +1,12 @@
 {
   "coupon_codes": [
-    
+    {
+      "code": "SPACE-2026-7SKV69",
+      "expired_date": "2026-12-31T16:59:00Z",
+      "status": 1,
+      "updatedAt": "2026-07-16T02:48:19.676Z",
+      "code_type": 0,
+      "device_id_updated": ""
+    }
   ]
 }
