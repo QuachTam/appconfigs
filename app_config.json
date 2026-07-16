@@ -3,6 +3,10 @@
     {
       "identifier_app": "com.smartgroup.spacemintios.SpaceMintiOS",
       "enable_ofc": false
-    }
+    },
+    {
+      "identifier_app": "com.smartgroup.vnstockai",
+      "enable_ofc": true
+    },
   ]
 }
