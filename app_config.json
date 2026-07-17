@@ -6,7 +6,7 @@
     },
     {
       "identifier_app": "com.smartgroup.vnstockai",
-      "enable_ofc": false
+      "enable_ofc": true
     }
   ]
 }
