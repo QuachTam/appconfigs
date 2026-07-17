@@ -3,26 +3,26 @@
     {
       "code": "SPACE-2026-54W3RW",
       "expired_date": "2027-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-17T01:22:56.560Z",
+      "status": 0,
+      "updatedAt": "2026-07-17T01:23:56.608494Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "ZCUT738O"
     },
     {
       "code": "SPACE-2026-7SKV69",
       "expired_date": "2026-12-31T16:59:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-16T02:48:19.676Z",
+      "status": 0,
+      "updatedAt": "2026-07-16T02:49:09.132410Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "VRRRYX4J"
     },
     {
       "code": "SPACE-2026-HP9PLF",
       "expired_date": "2027-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-17T01:26:06.040Z",
+      "status": 0,
+      "updatedAt": "2026-07-17T01:29:38.975016Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "ZCUT738O"
     },
     {
       "code": "SPACE-2026-ZFBCP5",
@@ -35,10 +35,10 @@
     {
       "code": "VNSTOCK-2026-WJKMW4",
       "expired_date": "2027-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-17T01:30:38.766Z",
+      "status": 0,
+      "updatedAt": "2026-07-17T02:30:00.916697Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "FXPE2HWN"
     }
   ]
 }
