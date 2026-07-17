@@ -23,6 +23,14 @@
       "updatedAt": "2026-07-17T01:26:06.040Z",
       "code_type": 0,
       "device_id_updated": ""
+    },
+    {
+      "code": "SPACE-2026-ZFBCP5",
+      "expired_date": "2027-12-30T17:00:00Z",
+      "status": 1,
+      "updatedAt": "2026-07-17T01:28:10.484Z",
+      "code_type": 0,
+      "device_id_updated": ""
     }
   ]
 }
