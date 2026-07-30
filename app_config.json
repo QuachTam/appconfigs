@@ -7,6 +7,10 @@
     {
       "identifier_app": "com.smartgroup.vnstockai",
       "enable_ofc": true
+    },
+    {
+      "identifier_app": "com.smartgroup.spacemint",
+      "enable_ofc": true
     }
   ]
 }
