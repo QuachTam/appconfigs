@@ -6,7 +6,15 @@
     },
     {
       "identifier_app": "com.smartgroup.vnstockai",
-      "enable_ofc": true
+      "enable_ofc": true,
+      "ads": {
+        "enabled": false,
+        "rewarded_ad_points": 2,
+        "android_app_id": "",
+        "ios_app_id": "",
+        "android_rewarded_ad_unit_id": "",
+        "ios_rewarded_ad_unit_id": ""
+      }
     },
     {
       "identifier_app": "com.smartgroup.spacemint",
