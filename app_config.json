@@ -22,15 +22,31 @@
     },
     {
       "identifier_app": "com.smarttqn.groupfund",
-      "enable_ofc": true,
+      "enable_ofc": false,
       "ads": {
         "enabled": false,
         "rewarded_ad_points": 2,
         "android_app_id": "",
-        "android_rewarded_ad_unit_id": "",
+        "admob_banner_id_android": "",
+        "admob_rewarded_id_android": "",
         "ios_app_id": "ca-app-pub-7199636213691090~3688325223",
-        "ios_rewarded_ad_unit_id": "ca-app-pub-7199636213691090/1095619779"
+        "admob_banner_id_ios": "",
+        "admob_rewarded_id_ios": "ca-app-pub-7199636213691090/1095619779",
+        "admob_test_device_ids": [],
+        "show_ads_ios": false,
+        "show_ads_android": false,
+        "enable_ump_ios": false,
+        "enable_ump_android": false,
+        "show_sports_news_ios": false,
+        "show_sports_news_android": false,
+        "news_ad_interval": 5,
+        "show_new_feed_top_ad_ios": false,
+        "show_new_feed_top_ad_android": false,
+        "show_guide_in_settings_ios": false,
+        "show_guide_in_settings_android": false,
+        "show_group_detail_ads_ios": false,
+        "show_group_detail_ads_android": false
       }
-    },
+    }
   ]
 }
