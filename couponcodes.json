@@ -19,10 +19,10 @@
     {
       "code": "SPACE-2026-H8ZXSU",
       "expired_date": "2026-12-29T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-23T08:26:00.200Z",
+      "status": 0,
+      "updatedAt": "2026-08-12T02:34:58.919450Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "F838C50F-F863-4BE0-847A-59B48599BCFA"
     },
     {
       "code": "SPACE-2026-HP9PLF",
@@ -35,42 +35,42 @@
     {
       "code": "SPACE-2026-Z2E2GH",
       "expired_date": "2027-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-17T04:19:12.956Z",
+      "status": 0,
+      "updatedAt": "2026-07-19T03:45:34.848940Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "749K06OE"
     },
     {
       "code": "SPACE-2026-ZFBCP5",
       "expired_date": "2027-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-17T01:28:10.484Z",
+      "status": 0,
+      "updatedAt": "2026-08-12T02:32:30.113749Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "18C4CB1F-1EF9-46B6-B93A-E3B751DDF0BA"
     },
     {
       "code": "SPM-2026-DS9MSC",
       "expired_date": "2026-12-29T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-23T08:26:20.700Z",
+      "status": 0,
+      "updatedAt": "2026-08-12T02:33:28.819477Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "F838C50F-F863-4BE0-847A-59B48599BCFA"
     },
     {
       "code": "SPM-2026-GFMQ5Y",
       "expired_date": "2026-12-29T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-23T08:26:24.335Z",
+      "status": 0,
+      "updatedAt": "2026-07-23T08:27:16.773388Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "E3D0231B-D6C2-4745-8CF7-429582B19DCF"
     },
     {
       "code": "VNST-2026-4Z7HH9",
       "expired_date": "2026-12-29T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-23T08:27:40.269Z",
+      "status": 0,
+      "updatedAt": "2026-07-23T08:28:27.511589Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "C31K123U"
     },
     {
       "code": "VNST-2026-7SXZGH",
