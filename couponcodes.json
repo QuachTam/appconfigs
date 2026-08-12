@@ -1,14 +1,6 @@
 {
   "coupon_codes": [
     {
-      "code": "CLM-2026-SNY9HK",
-      "expired_date": "2026-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-08-12T02:37:26.986Z",
-      "code_type": 0,
-      "device_id_updated": ""
-    },
-    {
       "code": "SPACE-2026-54W3RW",
       "expired_date": "2027-12-30T17:00:00Z",
       "status": 0,
