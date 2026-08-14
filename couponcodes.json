@@ -3,10 +3,10 @@
     {
       "code": "CLM-2026-EEM97Z",
       "expired_date": "2026-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-08-12T02:39:46.845Z",
+      "status": 0,
+      "updatedAt": "2026-08-12T02:40:21.637393Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "F838C50F-F863-4BE0-847A-59B48599BCFA"
     },
     {
       "code": "SPACE-2026-54W3RW",
