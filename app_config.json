@@ -18,7 +18,7 @@
     },
     {
       "identifier_app": "com.smartgroup.spacemint",
-      "enable_ofc": false
+      "enable_ofc": true
     },
     {
       "identifier_app": "com.smarttqn.groupfund",
