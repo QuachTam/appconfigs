@@ -50,8 +50,8 @@
       "coins": {
         "group_sale_coins": 30,
         "group_member_monthly_coin": 1,
-        "user_watch_coin": 0.1,
-        "group_watch_coin": 0.1,
+        "user_watch_coin": 2.0,
+        "group_watch_coin": 2.0,
         "user_create_group_coin": 5,
         "group_add_member_coin": 2,
         "group_create_income_coin": 1,
