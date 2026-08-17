@@ -33,7 +33,7 @@
         "admob_banner_id_ios": "ca-app-pub-7199636213691090/5513376936",
         "admob_rewarded_id_ios": "ca-app-pub-7199636213691090/1095619779",
         "admob_test_device_ids": [],
-        "show_ads_ios": false,
+        "show_ads_ios": true,
         "show_ads_android": false,
         "enable_ump_ios": false,
         "enable_ump_android": false,
