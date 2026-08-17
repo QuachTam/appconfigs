@@ -24,7 +24,7 @@
       "identifier_app": "com.smarttqn.groupfund",
       "enable_ofc": false,
       "ads": {
-        "enabled": true,
+        "enabled": false,
         "rewarded_ad_points": 2,
         "android_app_id": "",
         "admob_banner_id_android": "ca-app-pub-7199636213691090/9465064389",
