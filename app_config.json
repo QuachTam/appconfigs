@@ -48,10 +48,10 @@
         "show_group_detail_ads_android": false
       },
       "coins": {
-        "group_sale_coins": 30,
+        "group_sale_coins": 0,
         "group_member_monthly_coin": 1,
-        "user_watch_coin": 2.0,
-        "group_watch_coin": 2.0,
+        "user_watch_coin": 1.0,
+        "group_watch_coin": 1.0,
         "user_create_group_coin": 5,
         "group_add_member_coin": 2,
         "group_create_income_coin": 1,
@@ -60,13 +60,13 @@
         "group_create_expense_coin": 1,
         "group_create_recurring_expense_coin": 2,
         "group_run_recurring_expense_coin": 1,
-        "group_export_income_member_year_coin": 10,
-        "group_export_income_member_all_coin": 20,
-        "group_export_income_group_year_coin": 30,
-        "group_export_income_group_all_coin": 50,
-        "group_export_expense_year_coin": 30,
-        "group_export_expense_all_coin": 50,
-        "group_create_feed_min_coin": 10
+        "group_export_income_member_year_coin": 1,
+        "group_export_income_member_all_coin": 1,
+        "group_export_income_group_year_coin": 1,
+        "group_export_income_group_all_coin": 1,
+        "group_export_expense_year_coin": 1,
+        "group_export_expense_all_coin": 1,
+        "group_create_feed_min_coin": 1
       }
     }
   ]
