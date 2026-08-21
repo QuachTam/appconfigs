@@ -48,6 +48,7 @@
         "show_group_detail_ads_android": false
       },
       "coins": {
+        "user_initial_coins": 5,
         "group_sale_coins": 0,
         "group_member_monthly_coin": 1,
         "user_watch_coin": 1.0,
@@ -66,7 +67,8 @@
         "group_export_income_group_all_coin": 20,
         "group_export_expense_year_coin": 5,
         "group_export_expense_all_coin": 10,
-        "group_create_feed_min_coin": 3
+        "group_create_feed_min_coin": 3,
+        "group_create_notification_coin": 1
       }
     }
   ]
