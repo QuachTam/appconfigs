@@ -49,7 +49,7 @@
       },
       "coins": {
         "user_initial_coins": 5,
-        "group_sale_coins": 0,
+        "group_sale_coins": 5,
         "group_member_monthly_coin": 1,
         "user_watch_coin": 1.0,
         "group_watch_coin": 1.0,
