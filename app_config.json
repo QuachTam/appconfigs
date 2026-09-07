@@ -2,7 +2,16 @@
   "apps": [
     {
       "identifier_app": "com.smartgroup.spacemintios.SpaceMintiOS",
-      "enable_ofc": true
+      "enable_ofc": true,
+      "ads": {
+        "rewarded_enabled": true,
+        "rewarded_ad_unit_id": "ca-app-pub-7199636213691090/8373935107"
+      },
+      "coin": {
+        "enabled": true,
+        "reward_coins": 1,
+        "scan_cost_coins": 2
+      }
     },
     {
       "identifier_app": "com.smartgroup.vnstockai",
