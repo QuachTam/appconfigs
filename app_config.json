@@ -43,18 +43,18 @@
         "admob_rewarded_id_ios": "ca-app-pub-7199636213691090/1095619779",
         "admob_test_device_ids": [],
         "show_ads_ios": true,
-        "show_ads_android": false,
+        "show_ads_android": true,
         "enable_ump_ios": false,
         "enable_ump_android": false,
         "show_sports_news_ios": false,
         "show_sports_news_android": false,
         "news_ad_interval": 5,
-        "show_new_feed_top_ad_ios": false,
-        "show_new_feed_top_ad_android": false,
+        "show_new_feed_top_ad_ios": true,
+        "show_new_feed_top_ad_android": true,
         "show_guide_in_settings_ios": false,
         "show_guide_in_settings_android": false,
-        "show_group_detail_ads_ios": false,
-        "show_group_detail_ads_android": false
+        "show_group_detail_ads_ios": true,
+        "show_group_detail_ads_android": true
       },
       "coins": {
         "user_initial_coins": 5,
