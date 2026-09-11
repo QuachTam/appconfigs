@@ -30,6 +30,25 @@
       "enable_ofc": false
     },
     {
+      "identifier_app": "com.smartscan.ai",
+      "coin": {
+        "enabled": true,
+        "reward_coins": 2,
+        "scan_cost_coins": 1,
+        "daily_free_coins": 5,
+        "max_rewarded_ads_per_day": 10
+      },
+      "ads": {
+        "rewarded_enabled": true,
+        "ios": {
+          "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/1712485313"
+        },
+        "android": {
+          "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
+        }
+      }
+    },
+    {
       "identifier_app": "com.smarttqn.groupfund",
       "enable_ofc": false,
       "ads": {
