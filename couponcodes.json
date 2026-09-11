@@ -17,6 +17,14 @@
       "device_id_updated": ""
     },
     {
+      "code": "MAC-2026-TE5HEF",
+      "expired_date": "2026-12-30T17:00:00Z",
+      "status": 1,
+      "updatedAt": "2026-09-11T08:35:46.848Z",
+      "code_type": 0,
+      "device_id_updated": ""
+    },
+    {
       "code": "SPACE-2026-54W3RW",
       "expired_date": "2027-12-30T17:00:00Z",
       "status": 0,
