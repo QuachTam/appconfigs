@@ -9,6 +9,14 @@
       "device_id_updated": "F838C50F-F863-4BE0-847A-59B48599BCFA"
     },
     {
+      "code": "CN-2026-DHC8YC",
+      "expired_date": "2026-12-30T17:00:00Z",
+      "status": 1,
+      "updatedAt": "2026-09-11T08:33:56.722Z",
+      "code_type": 0,
+      "device_id_updated": ""
+    },
+    {
       "code": "SPACE-2026-54W3RW",
       "expired_date": "2027-12-30T17:00:00Z",
       "status": 0,
