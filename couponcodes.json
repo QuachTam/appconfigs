@@ -83,26 +83,26 @@
     {
       "code": "VNST-2026-7SXZGH",
       "expired_date": "2026-12-29T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-23T08:24:28.558Z",
+      "status": 0,
+      "updatedAt": "2026-08-21T08:59:52.663048Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "IWB6LBBR"
     },
     {
       "code": "VNST-2026-D6KKHS",
       "expired_date": "2026-12-29T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-07-23T08:26:08.029Z",
+      "status": 0,
+      "updatedAt": "2026-09-08T11:22:03.471921Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "4BA41E30-C053-41DB-82EB-10005FBDF0B9"
     },
     {
       "code": "VNST-2026-EZQ9DZ",
       "expired_date": "2026-12-30T17:00:00Z",
-      "status": 1,
-      "updatedAt": "2026-08-14T06:57:44.261Z",
+      "status": 0,
+      "updatedAt": "2026-08-14T06:58:32.952046Z",
       "code_type": 0,
-      "device_id_updated": ""
+      "device_id_updated": "GOYQG474"
     },
     {
       "code": "VNSTOCK-2026-WJKMW4",
