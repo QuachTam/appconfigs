@@ -14,6 +14,22 @@
       }
     },
     {
+      "identifier_app": "com.smarts.can.ai",
+      "enable_ofc": true,
+      "ads": {
+        "ios_rewarded_enabled": true,
+        "ios_rewarded_ad_unit_id": "ca-app-pub-7199636213691090/8373935107",
+        "aos_rewarded_enabled": true,
+        "aos_rewarded_ad_unit_id": "ca-app-pub-7199636213691090/8373935107"
+      },
+      "coin": {
+        "dailyFreeCoins": 5,
+        "rewardCoins": 2,
+        "scanCostCoins": 1,
+        "maxRewardedAdsPerDay": 10
+      }
+    },
+    {
       "identifier_app": "com.smartgroup.vnstockai",
       "enable_ofc": true,
       "ads": {
