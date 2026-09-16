@@ -24,8 +24,8 @@
       },
       "coin": {
         "freeCoins": 0,
-        "rewardCoins": 2,
-        "scanCostCoins": 4,
+        "rewardCoins": 1,
+        "scanCostCoins": 1,
         "maxRewardedAdsPerDay": 10
       }
     },
