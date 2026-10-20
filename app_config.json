@@ -17,7 +17,8 @@
       "enable_ofc": true,
       "ads": {
         "rewarded_enabled": true,
-        "rewarded_ad_unit_id": "ca-app-pub-7199636213691090/8373935107"
+        "rewarded_ad_unit_id": "ca-app-pub-7199636213691090/8373935107",
+        "app_open_ad_unit_id": ""
       },
       "coin": {
         "enabled": true,
